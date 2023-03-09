@@ -29,7 +29,7 @@ jobs:
           node-version: 16
       - name: debug
         env:
-          GITHUB_TOKEN: ${{ secrets.GB_TOKEN }}
+          GITHUB_TOKEN: hjhuhiuhikhikuhkj
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           expr length $GITHUB_TOKEN
