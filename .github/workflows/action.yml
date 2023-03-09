@@ -27,13 +27,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - name: debug
-        env:
-          GITHUB_TOKEN: hjhuhiuhikhikuhkj
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: |
-          expr length $GITHUB_TOKEN
-          expr length $NPM_TOKEN
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v3
         with:
@@ -44,8 +37,8 @@ jobs:
               'next-major'
             ]
         env:
-          GITHUB_TOKEN: ${{ secrets.GB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          GITHUB_TOKEN: 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
+          NPM_TOKEN: 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
       
 
       # Runs a single command using the runners shell
