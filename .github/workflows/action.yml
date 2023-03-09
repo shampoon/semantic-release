@@ -37,7 +37,7 @@ jobs:
               'next-major'
             ]
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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:x-oauth-basic
           NPM_TOKEN: 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
       
 
