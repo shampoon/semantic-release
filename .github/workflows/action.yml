@@ -38,7 +38,7 @@ jobs:
             ]
           repositoryUrl: https://github.com/shampoon/semantic-release
         env:
-          GITHUB_TOKEN: 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:x-oauth-basic
+          GITHUB_TOKEN: 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:x-oauth-basic
           NPM_TOKEN: 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
       
 
