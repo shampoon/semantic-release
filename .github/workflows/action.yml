@@ -36,10 +36,9 @@ jobs:
               'main',
               'next-major'
             ]
-          repositoryUrl: https://github.com/shampoon/semantic-release
         env:
-          GITHUB_TOKEN: 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:x-oauth-basic
-          NPM_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       
 
       # Runs a single command using the runners shell
