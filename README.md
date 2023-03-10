@@ -16,3 +16,4 @@ Fix 1 after 1.0.1
 
 Feat 1 after 1.0.1 
 
+Fix 2 after 1.0.1
