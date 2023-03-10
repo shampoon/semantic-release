@@ -9,3 +9,5 @@ Test for semantic-release
 
 new trick
 new new trick
+
+Fix 1 after v1.0.0
