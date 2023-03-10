@@ -1,5 +1,18 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/shampoon/semantic-release/compare/v1.0.1...v1.1.0) (2023-03-10)
+
+
+### Bug Fixes
+
+* Fix 1 after 1.0.1 ([a803207](https://github.com/shampoon/semantic-release/commit/a80320749e6ef644a6f8b863f32c7b5690ade301))
+* Fix 2 after 1.0.1 ([5d730d9](https://github.com/shampoon/semantic-release/commit/5d730d911a10238af163c0dfd214be4463e686d2))
+
+
+### Features
+
+* feat 1 after 1.0.1 ([5ab5457](https://github.com/shampoon/semantic-release/commit/5ab5457509efdc2bcfad61f3d2c0f422f50474c6))
+
 ## [1.0.1](https://github.com/shampoon/semantic-release/compare/v1.0.0...v1.0.1) (2023-03-10)
 
 
