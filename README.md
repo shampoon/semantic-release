@@ -11,3 +11,6 @@ new trick
 new new trick
 
 Fix 1 after v1.0.0
+
+Fix 1 after 1.0.1
+
