@@ -8,3 +8,4 @@ Test for semantic-release
 
 
 new trick
+new new trick
