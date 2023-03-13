@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.2.2](https://github.com/shampoon/semantic-release/compare/v1.2.1...v1.2.2) (2023-03-13)
+
+
+### Performance Improvements
+
+* hard changes \n BREAKING CHANGE: list of changes ([6b64cc1](https://github.com/shampoon/semantic-release/commit/6b64cc1d385633539c0298fe33abbabaa81b9428))
+
 ## [1.2.1](https://github.com/shampoon/semantic-release/compare/v1.2.0...v1.2.1) (2023-03-13)
 
 
