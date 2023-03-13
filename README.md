@@ -17,3 +17,7 @@ Fix 1 after 1.0.1
 Feat 1 after 1.0.1 
 
 Fix 2 after 1.0.1
+
+No name commit after 1.1.0
+
+Fix 1 afret 1.1.0
